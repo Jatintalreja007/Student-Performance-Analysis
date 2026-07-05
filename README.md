@@ -46,9 +46,28 @@ Import `college_management.sql` into MySQL and update the credentials in `coll_p
 
 ## Project Documentation
 
-The complete project report and additional screenshots are available in:
+## 📷 Project Screenshots
 
-- 📄 (SNAPSHOT.docx)
+### Data Cleaning
+![Data Cleaning](SNAPSHOT_01.png)
+
+### Major-wise Student Distribution
+![Major Distribution](SNAPSHOT_02.png)
+
+### GPA Distribution
+![GPA Distribution](SNAPSHOT_03.png)
+
+### Gender Distribution
+![Gender Distribution](SNAPSHOT_04.png)
+
+### Attendance vs GPA
+![Attendance vs GPA](SNAPSHOT_06.png)
+
+### Assignment Submission vs GPA
+![Assignment Submission vs GPA](SNAPSHOT_07.png)
+
+### Enrollment Status
+![Enrollment Status](SNAPSHOT_08.png)
 
 ## Author
 Jatin Talreja
